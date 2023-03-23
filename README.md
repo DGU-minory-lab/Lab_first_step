@@ -1,25 +1,34 @@
-# Tutorial
+# 연구실 지침서
 
 데이터 생물학 및 정밀의학 연구실에 오신 여러분 환영합니다!  
-첫 입학 후, 공부할만한 것들을 정리해놓은 페이지입니다.  
-궁금한 것은 언제든 주변 사람에게 물어보세요 :D  
+입학 후 해야 할 것들을 정리해두었으니, 참고해주세요!
 
-### R
-- [R 공부하기](https://misdb.github.io/R/R-Tutorial/) : R 튜토리얼  
-- [R 직접 써보기](https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1) : 웹상에서 R을 직접 실행할 수 있습니다. 간단한 작업만 가능해요.  
+### Resilio Sync 설치
+- [Resilio 사이트](https://www.resilio.com/individuals/)  
+저희 실험실은 Resilio(통칭 레실리오)를 이용해서 파일 공유를 하고있습니다.  
+레실리오를 설치한 후, 옆 사람한테 도와달라고 하면 설치를 도와줍니다.  
+공유키를 받으셔야해서, 꼭 도움을 요청하세요!  
+  
+### xshell, xftp 설치
+- [xshell, xftp 설치 사이트](https://www.netsarang.com/en/free-for-home-school/)  
+서버 접속시 필요합니다. 설치 해두세요!  
+그 이후 교수님께 서버 아이디를 만들어달라고 하면 일할 준비 완료입니다.  
 
-### python
-- [점프 투 파이썬](https://wikidocs.net/book/1) : Do it! 점프투파이썬의 웹문서판입니다. 참고해서 공부하세요.  
-- [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2) : 그림이 좀 더 있어서 쉬운 버전입니다.  
+- (옵션)[xming](https://sourceforge.net/projects/xming/)  
+xming은 서버에서 이미지작업 할때 필요합니다. 일단 미리 깔아두면 좋아요.  
 
-### 리눅스
-- [bash 문법](https://wikidocs.net/book/2370) : bash에 대한 정리입니다. 리눅스 기초라고 생각하시면 편해요!  
+### 연락처 및 정보 공유  
+레실리오를 다 까셨나요? 그러면 레실리오 폴더에 들어가봅시다.  
+**레실리오>연락처**로 들어가시면 연락처 xlsx 파일이 있습니다.  
+여기에 모든 정보를 기입해주세요!  
 
-### RNA-seq
-- [RNA-seq tutorial](https://github.com/griffithlab/rnaseq_tutorial) : RNA-seq 튜토리얼로 실험실에서 자주 쓰는 페이지입니다. 따라 하시면 됩니다.  
+### 실험실 사진 공유
+저희 실험실에는 실험실 홈페이지가 있습니다.  
+홈페이지에 올라갈 사진을 레실리오에 올려주세요.  
+또한 홈페이지 관리자에게 자신의 전적대 학적(한글, 영문)을 보내주세요.  
+사진은 **레실리오>사진>프로필**에 넣어두시면 됩니다.  
 
 ### 그 외
-- [hbctraining](https://github.com/hbctraining/Training-modules) : bioinformatics 관련된 workshop이 모여있는 페이지 입니다.  
 
 생각나는대로 더 추가하겠습니다.
 즐거운 실험실 생활 하세요 :D
